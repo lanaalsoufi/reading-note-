@@ -19,3 +19,5 @@ My GitHub link :point_down:
 |No.|Read|
 |---|---|
 |1|[Read1](read1.md)
+|2|[Read2a](read2a.md)
+|3|[Read2b](read2b.md)
