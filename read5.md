@@ -46,7 +46,7 @@ Comparison operators usually return single values of true or false. Logical oper
 
 This operator tests more than one condition.
 
-**(| |) LOGICAL OR**
+**(||) LOGICAL OR**
 
 This operator tests at least one condition.
 
