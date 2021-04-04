@@ -1,3 +1,4 @@
+
 ## Growth-Mindest
  * The growth Mindest is the belief that a person is able to change his competencies, abilities and intelligence, while on the other hand, the fixed mentality does not believe that a person is able to change his competencies, abilities and intelligence.
 
@@ -23,3 +24,4 @@ My GitHub link :point_down:
 |3|[Read2b](read2b.md)
 |4|[Read3](read3.md)
 |5|[Read4](read4.md)
+|6|[Read5](read5.md)
