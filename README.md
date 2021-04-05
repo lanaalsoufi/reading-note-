@@ -26,4 +26,4 @@ My GitHub link :point_down:
 |4|[Read3](read3.md)
 |5|[Read4](read4.md)
 |6|[Read5](read5.md)
-|7|[read6](read6.md)
+|7|[Read6](read6.md)
