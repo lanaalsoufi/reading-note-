@@ -1,6 +1,7 @@
 <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1GVyeklIQE3uwsx9ud3XIrZK4slTbpkd9w&usqp=CAU">
 
 # **COMPARISON OPERATORS:**
+
 ## ***EVALUATING CONDITIONS***
 
 You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a Boolean : true or false. 
