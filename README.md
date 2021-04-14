@@ -38,4 +38,5 @@ My GitHub link :point_down:
 |1|[HTML Text, CSS Introduction, and Basic JavaScript Instruction](class-01.md)
 |2|[Introductory HTML and JavaScript](class-02.md)
 |3|[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
+|4|[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 
