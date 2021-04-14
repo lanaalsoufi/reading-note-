@@ -22,13 +22,13 @@ My GitHub link :point_down:
 ## Table of content 
 |No.|Read|
 |---|---|
-|1|[Read1](read1.md)
-|2|[Read2a](read2a.md)
-|3|[Read2b](read2b.md)
-|4|[Read3](read3.md)
-|5|[Read4](read4.md)
-|6|[Read5](read5.md)
-|7|[Read6](read6.md)
+|1|[The Coder's Computer](read1.md)
+|2|[Learning Markdown](read2a.md)
+|3|[Revisions and the Cloud](read2b.md)
+|4|[Structure web pages with HTML](read3.md)
+|5|[Programming with JavaScript](read4.md)
+|6|[Operators and Loops](read5.md)
+|7|[Design web pages with CSS](read6.md)
 
 
 # Code 201 Reading Notes
