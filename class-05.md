@@ -10,7 +10,7 @@ src => This tells the browser where it can find the image file. This will usuall
 
 alt => This provides a text description of the image which describes the image if you cannot see it.
 
-title => You can also use the title attribute with the (img) element to provide additional information about the image.Most browsers will display the content of this attribute in a tootip when the user hovers over the image.
+title => You can also use the title attribute with the (img) element to provide additional information about the image. Most browsers will display the content of this attribute in a tootip when the user hovers over the image.
 
 ## Height & Width of Images
 
@@ -93,7 +93,7 @@ Images often come with captions. HTML5 has introduced a new (figure) element to 
 
 *figcaption*
 
-The (figcaption) element has been added to HTML5 in order to allow web page authors to add a caption to an image.Before these elements were created there was no way to associate an (img) element with its caption.
+The (figcaption) element has been added to HTML5 in order to allow web page authors to add a caption to an image. Before these elements were created there was no way to associate an (img) element with its caption.
 
 ## Summary
 
@@ -155,7 +155,7 @@ Brightness (or "value") refers to how much black is in a color. At maximum brigh
 
 * ALPHA
 
-## Summury
+## Summary
 
 * Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 

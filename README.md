@@ -40,3 +40,4 @@ My GitHub link :point_down:
 |3|[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 |4|[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 |5|[HTML Images; CSS Color & Text](class-05.md)
+|6|[JS Object Literals; The DOM](class-06.md)
