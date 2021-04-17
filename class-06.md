@@ -339,7 +339,7 @@ If understanding the problem domain is the hardest part of programming and you w
 1. Make the problem domain easier
 2. Get better at understanding the problem domain
 
-* You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
+**You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem**
 
 What I mean by this is that it is often beneficial to take a part of the problem and fully understand that part before expanding the problem domain.
 
@@ -347,4 +347,4 @@ Games are really good at this.  Look at most games today and you’ll find that 
 
 The other choice is to become better at understanding problem domains. As developers, we tend to think that sitting down and talking to customers or business people who know about the problem domain is a waste of time. It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it. Best to resist the temptation to “not waste anymore time talking” and make sure you understand a problem inside and out before you try and solve it with code.  It is much more expensive and time consuming to do things over than it is to do them right the first time. I learn this lesson the hard way time and time again.
 
-#THE END 
+# THE END 
