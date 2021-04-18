@@ -6,7 +6,7 @@
 
 A table represents information in a grid format Examples of tables include financial reports, TV schedules, and sports results.
 
-## Basic Table St ructure
+## Basic Table Structure
 
 * table
 
@@ -95,7 +95,7 @@ The default object in this context is the window object. so when this is used in
 
 All global variables also become properties of the window object. so when a function is in the global context, you can access global variables using the window object, as well as its other properties.
 
-Here, the showWi dth () function is in global scope, and this.width refers to the width variable
+Here, the showWidth () function is in global scope, and this.width refers to the width variable
 
 * A METHOD OF AN OBJECT
 
@@ -146,7 +146,7 @@ In JavaScript there are six data types: Five of them are described as simple (or
 
 * Functions allow you to group a set of related statements together that represent a single task.
 
-* Functions can take parameters (informatiorJ required to do their job) and may return a value.
+* Functions can take parameters (information) required to do their job) and may return a value.
 
 * An object is a series of variables and functions that represent something from the world around you.
 
