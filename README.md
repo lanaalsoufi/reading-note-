@@ -42,3 +42,4 @@ My GitHub link :point_down:
 |5|[HTML Images; CSS Color & Text](class-05.md)
 |6|[JS Object Literals; The DOM](class-06.md)
 |7|[Object-Oriented Programming, HTML Tables](class-07.md)
+|8|[More CSS Layout](class-08.md)
