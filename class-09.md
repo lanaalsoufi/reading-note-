@@ -52,9 +52,9 @@ Allows users to upload files (e.g. images) to a websiteFile upload
 
 A user fills in a form and then presses a button to submit the information to the server.
 
-## Summary 
-
-* ollect information from visitors you will need a form, which lives inside a (form) element.
+## Summary
+ 
+* Whenever you want to collect information from visitors you will need a form, which lives inside a (form) element.
 
 * Information from a form is sent in name/value pairs.
 
