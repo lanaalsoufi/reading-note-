@@ -44,3 +44,4 @@ My GitHub link :point_down:
 |7|[Object-Oriented Programming, HTML Tables](class-07.md)
 |8|[More CSS Layout](class-08.md)
 |9|[Forms and JS Events](class-09.md)
+|10|[Error Handling & Debugging](class-10.md)
