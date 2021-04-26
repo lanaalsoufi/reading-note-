@@ -47,3 +47,4 @@ My GitHub link :point_down:
 |10|[Error Handling & Debugging](class-10.md)
 
 |11|[Audio, Video, Images](class-11.md)
+|12|[Docs for the HTML canvas Element & Chart.js](class-12.md)
