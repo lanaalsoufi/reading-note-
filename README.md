@@ -1,3 +1,14 @@
+# Reading Notes
+
+My name is Lana Alsoufi. I’m 23 years old, I have a bachelor degree in English language and literature as I graduated from Al-Isra’a University, Now I’m a software development student in ASAC and I’m so excited to complete this course and to become full stack developer.
+
+This page contains my reading notes I collected while reading in a software development course. I will be happy when you see them.
+
+My GitHub link :point_down:
+
+(https://github.com/lanaalsoufi)
+
+
 
 ## Growth-Mindest
  * The growth Mindest is the belief that a person is able to change his competencies, abilities and intelligence, while on the other hand, the fixed mentality does not believe that a person is able to change his competencies, abilities and intelligence.
@@ -6,19 +17,14 @@
 
 * Individuals who believe their talents can be developed (through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts).
 
-# 3 Reminders to myself to maintain a growth mindest :
+## 3 Reminders to myself to maintain a growth mindest :
 - Working with others and work hard 
 - Enter my mind with various challenges 
 - Be positive 
 
-My name is Lana Alsoufi, I’m 23 years old,  my major is English language and literature and I graduated from Al-Isra’a University .
-
-My GitHub link :point_down:
-
-(https://github.com/lanaalsoufi)
-
 
 # Code 102 Reading Notes
+# Code 102 - Intro to Software Development
 ## Table of content 
 |No.|Read|
 |---|---|
@@ -32,6 +38,7 @@ My GitHub link :point_down:
 
 
 # Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 ## Table of content 
 |No.|Read|
 |---|---|
@@ -50,3 +57,47 @@ My GitHub link :point_down:
 |13|[ Local Storage](class-13.md)
 |14|[CSS Transforms, Transitions, and Animations](class-14a.md)
 |15|[What Google Learned About Teams](class-14b.md)
+
+
+# Code 301 Reading Notes
+# Code 301 - Intermediate Software Development
+## Table of content 
+|No.|Read|
+|---|---|
+|1|[]()
+|2|[]()
+|3|[]()
+|4|[]()
+|5|[]()
+|6|[]()
+|7|[]()
+|8|[]()
+|9|[]()
+|10|[]()
+|11|[]()
+|12|[]()
+|13|[]()
+|14|[]()
+|15|[]()
+
+
+# Code 401 Reading Notes
+# Code 401 - Advanced Software Development
+## Table of content 
+|No.|Read|
+|---|---|
+|1|[]()
+|2|[]()
+|3|[]()
+|4|[]()
+|5|[]()
+|6|[]()
+|7|[]()
+|8|[]()
+|9|[]()
+|10|[]()
+|11|[]()
+|12|[]()
+|13|[]()
+|14|[]()
+|15|[]()
