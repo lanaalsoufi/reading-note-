@@ -66,7 +66,7 @@ My GitHub link :point_down:
 |---|---|
 |1|[Introduction to React and Components](./301/class01.md)
 |2|[State and Props](./301/class02.md)
-|3|[]()
+|3|[Passing Functions as Props](./301/class03.md)
 |4|[]()
 |5|[]()
 |6|[]()
@@ -101,3 +101,5 @@ My GitHub link :point_down:
 |13|[]()
 |14|[]()
 |15|[]()
+
+## Things I want to know more about
