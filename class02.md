@@ -28,13 +28,13 @@ This method is invoked immediately after a component is mounted. If you need to 
 
 **2. What is the big difference between props and state?**
 
-"props" is an object of arbitrary inputs a React function component accepts as the first argument. "state" is data that changes over the lifetime of a specific instance of a React component.
+"Props" handled outside of a component, "State" is handled and update it inside of a component.
 
 **3. When do we re-render our application?**
 
-In state
+when we change the state inside of our application.
 
 **4. What are some examples of things that we could store in state?**
 
-data which may be a string , number or any complex object .
+ date that are inside of a form like checkbox, textbox, or an input element that are being updated by the user.
 
