@@ -65,7 +65,7 @@ My GitHub link :point_down:
 |No.|Read|
 |---|---|
 |1|[Introduction to React and Components](class01.md)
-|2|[]()
+|2|[State and Props](class02.md)
 |3|[]()
 |4|[]()
 |5|[]()
