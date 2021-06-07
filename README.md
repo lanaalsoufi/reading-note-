@@ -28,13 +28,13 @@ My GitHub link :point_down:
 ## Table of content 
 |No.|Read|
 |---|---|
-|1|[The Coder's Computer](read1.md)
-|2|[Learning Markdown](read2a.md)
-|3|[Revisions and the Cloud](read2b.md)
-|4|[Structure web pages with HTML](read3.md)
-|5|[Programming with JavaScript](read4.md)
-|6|[Operators and Loops](read5.md)
-|7|[Design web pages with CSS](read6.md)
+|1|[The Coder's Computer](./102/read1.md)
+|2|[Learning Markdown](./102/read2a.md)
+|3|[Revisions and the Cloud](./102/read2b.md)
+|4|[Structure web pages with HTML](./102/read3.md)
+|5|[Programming with JavaScript](./102/read4.md)
+|6|[Operators and Loops](./102/read5.md)
+|7|[Design web pages with CSS](./102/read6.md)
 
 
 # Code 201 Reading Notes
@@ -42,21 +42,21 @@ My GitHub link :point_down:
 ## Table of content 
 |No.|Read|
 |---|---|
-|1|[HTML Text, CSS Introduction, and Basic JavaScript Instruction](class-01.md)
-|2|[Introductory HTML and JavaScript](class-02.md)
-|3|[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
-|4|[HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
-|5|[HTML Images; CSS Color & Text](class-05.md)
-|6|[JS Object Literals; The DOM](class-06.md)
+|1|[HTML Text, CSS Introduction, and Basic JavaScript Instruction](./201/class-01.md)
+|2|[Introductory HTML and JavaScript](./201/class-02.md)
+|3|[HTML Lists, CSS Boxes, JS Control Flow](./201/class-03.md)
+|4|[HTML Links, JS Functions, and Intro to CSS Layout](./201/class-04.md)
+|5|[HTML Images; CSS Color & Text](./201/class-05.md)
+|6|[JS Object Literals; The DOM](./201/class-06.md)
 |7|[Object-Oriented Programming, HTML Tables](class-07.md)
-|8|[More CSS Layout](class-08.md)
-|9|[Forms and JS Events](class-09.md)
-|10|[Error Handling & Debugging](class-10.md)
-|11|[Audio, Video, Images](class-11.md)
-|12|[Docs for the HTML canvas Element & Chart.js](class-12.md)
-|13|[ Local Storage](class-13.md)
-|14|[CSS Transforms, Transitions, and Animations](class-14a.md)
-|15|[What Google Learned About Teams](class-14b.md)
+|8|[More CSS Layout](./201/class-08.md)
+|9|[Forms and JS Events](./201/class-09.md)
+|10|[Error Handling & Debugging](./201/class-10.md)
+|11|[Audio, Video, Images](./201/class-11.md)
+|12|[Docs for the HTML canvas Element & Chart.js](./201/class-12.md)
+|13|[ Local Storage](./201/class-13.md)
+|14|[CSS Transforms, Transitions, and Animations](./201/class-14a.md)
+|15|[What Google Learned About Teams](./201/class-14b.md)
 
 
 # Code 301 Reading Notes
@@ -64,8 +64,8 @@ My GitHub link :point_down:
 ## Table of content 
 |No.|Read|
 |---|---|
-|1|[Introduction to React and Components](class01.md)
-|2|[State and Props](class02.md)
+|1|[Introduction to React and Components](./301/class01.md)
+|2|[State and Props](./301/class02.md)
 |3|[]()
 |4|[]()
 |5|[]()
