@@ -37,4 +37,3 @@ when we change the state inside of our application.
 **4. What are some examples of things that we could store in state?**
 
  date that are inside of a form like checkbox, textbox, or an input element that are being updated by the user.
-
