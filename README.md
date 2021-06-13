@@ -69,7 +69,7 @@ My GitHub link :point_down:
 |3|[Passing Functions as Props](./301/class03.md)
 |4|[ React and Forms](./301/class04.md)
 |5|[ Putting it all together](./301/class05.md)
-|6|[]()
+|6|[NODE.JS](./301/class06.md)
 |7|[]()
 |8|[]()
 |9|[]()
