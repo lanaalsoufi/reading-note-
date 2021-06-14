@@ -71,7 +71,7 @@ My GitHub link :point_down:
 |5|[ Putting it all together](./301/class05.md)
 |6|[NODE.JS](./301/class06.md)
 |7|[REST](./301/class07.md)
-|8|[]()
+|8|[APIs](./301/class08.md)
 |9|[]()
 |10|[]()
 |11|[]()
