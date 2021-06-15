@@ -72,7 +72,7 @@ My GitHub link :point_down:
 |6|[NODE.JS](./301/class06.md)
 |7|[REST](./301/class07.md)
 |8|[APIs](./301/class08.md)
-|9|[]()
+|9|[FUNCTIONAL PROGRAMMING](./301/class09.md)
 |10|[]()
 |11|[]()
 |12|[]()
