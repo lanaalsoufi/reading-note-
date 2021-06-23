@@ -75,7 +75,7 @@ My GitHub link :point_down:
 |9|[FUNCTIONAL PROGRAMMING](./301/class09.md)
 |10|[In memory storage](./301/class10.md)
 |11|[ Authentication](./301/class11.md)
-|12|[]()
+|12|[Mongo and Mongoose](./301/class12.md)
 |13|[]()
 |14|[]()
 |15|[]()
